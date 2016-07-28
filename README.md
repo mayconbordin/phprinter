@@ -12,3 +12,4 @@ PHP library for printers using PHP PECL, Internet Printing Protocol (IPP) and Li
  - https://github.com/SiCoUK/php-epl-printer
  - https://github.com/jakubboucek/esc-pos
  - https://github.com/NewtonMan/PHP-Printer-PPLA
+ - https://qz.io/
